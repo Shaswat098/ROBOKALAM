@@ -1,33 +1,57 @@
 # Gradle files
 .gradle/
-build/
+**/build/
+**/bin/
 
 # Local configuration file (sdk path, etc)
 local.properties
 
-# Log/OS Files
+# Proguard
+proguard/*.txt
+proguard-rules.pro
+
+# Log files
 *.log
 
-# Android Studio generated files and folders
-captures/
-.externalNativeBuild/
-.cxx/
-*.apk
-output.json
-
-# IntelliJ
-*.iml
+# Android Studio specific
 .idea/
-misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
+*.iml
+*.iws
+.idea/**
 
-# Keystore files
+# Keystore files (never commit your keystore!)
 *.jks
 *.keystore
 
-# Google Services (e.g. APIs or Firebase)
+# Kotlin/Java specific
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ
+out/
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Generated files
+captures/
+output.json
+
+# Google Services (API keys)
 google-services.json
 
-# Android Profiling
-*.hprof
+# NDK
+obj/
+
+# Crashlytics/Firebase
+crashlytics-build.properties
+fabric.properties
+
+# Gradle cache
+.cxx/
+.externalNativeBuild/
