@@ -1,0 +1,3 @@
+com.example.robokalam.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

@@ -1,0 +1,6 @@
+com.example.robokalam.test.app-core-1.6.1-0 C:\Users\Shaswat\.gradle\caches\8.10.2\transforms\0b1f2b9d005fb787c6ae1ebdf82b853a\transformed\core-1.6.1\res
+com.example.robokalam.test.app-tracing-1.2.0-1 C:\Users\Shaswat\.gradle\caches\8.10.2\transforms\df8a0d0a1abf1c8a1112b787fe1a9f4d\transformed\tracing-1.2.0\res
+com.example.robokalam.test.app-androidTest-2 C:\Users\Shaswat\StudioProjects\Robokalam\app\build\generated\res\resValues\androidTest\debug
+com.example.robokalam.test.app-mergeDebugAndroidTestResources-3 C:\Users\Shaswat\StudioProjects\Robokalam\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.robokalam.test.app-mergeDebugAndroidTestResources-4 C:\Users\Shaswat\StudioProjects\Robokalam\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.robokalam.test.app-debugAndroidTest-5 C:\Users\Shaswat\StudioProjects\Robokalam\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
